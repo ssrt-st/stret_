@@ -9,8 +9,8 @@ from telegram.ext import (
 import yt_dlp
 
 # ==================== الإعدادات الأساسية ====================
-BOT_TOKEN = "7910457667:AAEfAsF-9v_0LkYwWESmM4VkVVCS3FA6ZUY"
-ADMIN_ID = 1511371654  # ضع آيدي حسابك في تليجرام هنا
+BOT_TOKEN = ""
+ADMIN_ID =  # ضع آيدي حسابك في تليجرام هنا
 CHANNEL_USERNAME = "@https://t.me/sofe_1m"  # معرف قناتك للتحقق من الاشتراك الإجباري
 
 # ==================== قاعدة البيانات ====================
